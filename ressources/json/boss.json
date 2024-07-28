@@ -1,0 +1,295 @@
+{
+    "boss": [
+        {
+            "name": "Mob l'éponge",
+            "level": "1-50",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Bouftou Royal",
+            "level": "1-50",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Tournesol Sauvage",
+            "level": "1-50",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Scaraboss Doré",
+            "level": "1-50",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Bworkette",
+            "level": "1-50",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Shin Larve",
+            "level": "1-50",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Gelée Royale Citron",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Gelée Royale Fraise",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Gelée Royale Menthe",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Gelée Royale Bleue",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Dragon Cochon",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Wabbit GM",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Abraknyde Sombre",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Koulosse",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Moon",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Wa Wabbit",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Gourlo",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Corailleur magistral",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Craqueleur légendaire",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Blop Coco Royal",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Blop Griotte Royal",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Blop Indigo Royal",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Blop Reinette Royal",
+            "level": "50-100",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Tanoukoui-San",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Hell Mina",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Minotoror",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Mominotor",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Déminoboule",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Tofu Royal",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Rat noir",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Rat Blanc",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Sphincter Cell",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Quatuor Tynril",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Hanshi",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Skeunk",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Melou",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Blop multicolore Royal",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Maitre Corbac",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Chêne Mou",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Haute Truche",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Crocabulia",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Rasboul",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Sphincter Cell",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Furnoshi",
+            "level": "100-150",
+            "type": "boss",
+            "img_link": ""
+        },
+        {
+            "name": "Kimbo",
+            "level": "150-200",
+            "type": "boss",
+            "img_link": ""
+        },        {
+            "name": "Ougah",
+            "level": "150-200",
+            "type": "boss",
+            "img_link": ""
+        },        {
+            "name": "Minotot",
+            "level": "150-200",
+            "type": "boss",
+            "img_link": ""
+        },        {
+            "name": "Bworker",
+            "level": "150-200",
+            "type": "boss",
+            "img_link": ""
+        }
+    ]
+}
