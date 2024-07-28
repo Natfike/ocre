@@ -1,0 +1,52 @@
+/* Style global pour s'assurer que tout est bien aligné */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Container parent avec Flexbox */
+.cube-container {
+    display: flex;
+    gap: 20px; /* Espace entre les cubes */
+    flex-wrap: wrap; /* Pour passer à une nouvelle ligne si l'espace manque */
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+    height: fit-content;
+}
+
+/* Style pour chaque cube */
+.cube {
+    width: 10%;
+    height: 25%;
+    /* Couleur de fond */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: 2px solid #2980b9; /* Bordure optionnelle */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Ombre optionnelle */
+    box-sizing: border-box; /* Inclut la bordure dans les dimensions */
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    margin: 0;
+}
+
+.notcaptured {
+    background-color: #2980b9;
+}
+
+.captured {
+    background-color: #11AA11;
+}

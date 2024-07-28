@@ -4,292 +4,334 @@
             "name": "Mob l'éponge",
             "level": "1-50",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "mob_eponge.png"
         },
         {
             "name": "Bouftou Royal",
             "level": "1-50",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "bouftou_royal.png"
         },
         {
             "name": "Tournesol Sauvage",
             "level": "1-50",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "tournesol_sauvage.png"
         },
         {
             "name": "Scaraboss Doré",
             "level": "1-50",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "scaraboss_dore.png"
         },
         {
             "name": "Bworkette",
             "level": "1-50",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "bworkette.png"
         },
         {
             "name": "Shin Larve",
             "level": "1-50",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "shin_larve.png"
         },
         {
             "name": "Gelée Royale Citron",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "royale_citron.png"
         },
         {
             "name": "Gelée Royale Fraise",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "royale_fraise.png"
         },
         {
             "name": "Gelée Royale Menthe",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "royale_menthe.png"
         },
         {
             "name": "Gelée Royale Bleue",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "royale_bleue.png"
         },
         {
             "name": "Dragon Cochon",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "dragon_cochon.png"
         },
         {
             "name": "Wabbit GM",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "wabbit_gm.png"
         },
         {
-            "name": "Abraknyde Sombre",
+            "name": "Abraknyde Ancestral",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "abra_ancestral.png"
         },
         {
             "name": "Koulosse",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "koulosse.png"
         },
         {
             "name": "Moon",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "moon.png"
         },
         {
             "name": "Wa Wabbit",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "wa_wabbit.png"
         },
         {
             "name": "Gourlo",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "gourlo.png"
         },
         {
             "name": "Corailleur magistral",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "corailleur_magistral.png"
         },
         {
             "name": "Craqueleur légendaire",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "craqueleur_legendaire.png"
         },
         {
             "name": "Blop Coco Royal",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "coco_royal.png"
         },
         {
             "name": "Blop Griotte Royal",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "griotte_royal.png"
         },
         {
             "name": "Blop Indigo Royal",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "indigo_royal.png"
         },
         {
             "name": "Blop Reinette Royal",
             "level": "50-100",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "reinette_royal.png"
         },
         {
-            "name": "Tanoukoui-San",
+            "name": "Tanukoui-San",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "tanukoui_san.png"
         },
         {
             "name": "Hell Mina",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "hell_mina.png"
         },
         {
             "name": "Minotoror",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "minotoror.png"
         },
         {
             "name": "Mominotor",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "mominotor.png"
         },
         {
             "name": "Déminoboule",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "deminoboule.png"
         },
         {
             "name": "Tofu Royal",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "tofu_royal.png"
         },
         {
             "name": "Rat noir",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "rat_noir.png"
         },
         {
             "name": "Rat Blanc",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
-        },
-        {
-            "name": "Sphincter Cell",
-            "level": "100-150",
-            "type": "boss",
-            "img_link": ""
+            "stage": "17",
+            "img_link": "rat_blanc.png"
         },
         {
             "name": "Quatuor Tynril",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "tynril.png"
         },
         {
             "name": "Hanshi",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "hanshi.png"
         },
         {
             "name": "Skeunk",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "skeunk.png"
         },
         {
-            "name": "Melou",
+            "name": "Meulou",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "meulou.png"
         },
         {
             "name": "Blop multicolore Royal",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "multicolore_royal.png"
         },
         {
             "name": "Maitre Corbac",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "maitre_corbac.png"
         },
         {
             "name": "Chêne Mou",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "chene_mou.png"
         },
         {
             "name": "Haute Truche",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
-        },
-        {
-            "name": "",
-            "level": "100-150",
-            "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "haute_truche.png"
         },
         {
             "name": "Crocabulia",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
-        },
-        {
-            "name": "Rasboul",
-            "level": "100-150",
-            "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "crocabulia.png"
         },
         {
             "name": "Sphincter Cell",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "sphincter_cell.png"
         },
         {
-            "name": "Furnoshi",
+            "name": "Gardienne des égouts",
             "level": "100-150",
             "type": "boss",
-            "img_link": ""
+            "stage": "18",
+            "img_link": "gardienne_egouts.png"
         },
         {
             "name": "Kimbo",
             "level": "150-200",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "kimbo.png"
         },        {
             "name": "Ougah",
             "level": "150-200",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "ougah.png"
         },        {
             "name": "Minotot",
             "level": "150-200",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "minotot.png"
         },        {
             "name": "Bworker",
             "level": "150-200",
             "type": "boss",
-            "img_link": ""
+            "stage": "19",
+            "img_link": "bworker.png"
+        },
+        {
+            "name": "Silf le Rasboul Majeur",
+            "level": "150-200",
+            "type": "boss",
+            "stage": "19",
+            "img_link": "rasboul.png"
+        },
+        {
+            "name": "Founamboul",
+            "level": "100-150",
+            "type": "boss",
+            "stage": "19",
+            "img_link": "founamboul.png"
         }
     ]
 }
